@@ -1,7 +1,7 @@
 {
-  "name": "angular-activity-monitor",
-  "version": "1.1.0",
-  "description": "An Angular service that tracks users' DOM activity",
+  "name": "ng1-activity-monitor",
+  "version": "1.0.1",
+  "description": "Fork of angular-activity-monitor. An Angular service that tracks users' DOM activity (addressing security vulnerability issue with lodash ",
   "main": "activity-monitor.js",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sean3z/angular-activity-monitor.git"
+    "url": "git+ssh://git@github.com/amitse/angular-activity-monitor"
   },
   "keywords": [
     "angular",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/sean3z/angular-activity-monitor/issues"
   },
-  "homepage": "http://sean3z.github.io/angular-activity-monitor",
+  "homepage": "https://github.com/amitse/angular-activity-monitor",
   "devDependencies": {
     "angular": "~1.4.9",
     "angular-mocks": "~1.4.9",
